@@ -1,8 +1,9 @@
 # Best Practices for repositories
 An example repository structure for open source software publishing
 
-
-UK DRI Guidelines and policy documents on Data/Code sharing: https://github.com/UKDRI/Guidelines-and-policies 
+Useful links
+1. UK DRI Guidelines and policy documents on Data/Code sharing: https://github.com/UKDRI/Guidelines-and-policies 
+2. How to archive Github code with Zenodo and get a DOI: https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content
 
 ## Licenses
 
