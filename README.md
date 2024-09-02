@@ -38,5 +38,4 @@ Katz et. al. (2021) Recognizing the value of software: a software citation guide
 ## References
 1. [UK DRI Guidelines and policy documents on Data/Code sharing](https://github.com/UKDRI/Guidelines-and-policies) 
 2. [How to archive Github code with Zenodo and get a DOI](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
-3. 
 4. [Software Deposit Guidance for Researchers](https://zenodo.org/records/1327312)
