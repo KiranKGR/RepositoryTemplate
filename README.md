@@ -1,19 +1,16 @@
-# Best Practices for repositories
-An example repository structure for open source software publishing
-
-
-
-Release custom codes used in manuscripts 
-Code availability statements should be provided in manuscripts describing  
-
-If your software is complex with specific dependencies, consider creating a [Docker](https://docs.docker.com/get-started/docker-overview/) to allow the user to easily run the software. 
+# Template Repository for Open source software
+An example repository structure for open source software publishing. 
 
 Check out GNU's description of [Free Software](https://www.gnu.org/philosophy/free-sw.html) to understand the core principles of free software. 
+
+1. Release custom codes used in manuscripts as repositories
+2. Add clear code availability statements in manuscripts.
+3. If your software is complex with specific dependencies, consider creating a [Docker](https://docs.docker.com/get-started/docker-overview/) to allow the user to easily run the software. 
+
 ## Points to note
 * Use Git
 * Ask you collborators to review your code - increases the likelihood of catching errors
 * Keep sensitive data such as credentials secure and separate from source code.
-* 
 
 ## How to use this template
 Please follow the guidelines here to create a repository using this template:
